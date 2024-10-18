@@ -6,9 +6,9 @@ Node.js: Download and install.
 Git: Make sure Git is installed.
 Steps
 Clone the repository:
-git clone https://github.com/yourusername/react-user-management-app.git
+git clone https://github.com/Rudra006/User_managementTask.git
 Navigate to the project folder:
-cd react-user-management-app
+cd User_managementTask
 Install dependencies:
 
 Run the following command to install all the required packages:
